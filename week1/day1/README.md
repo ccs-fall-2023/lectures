@@ -1,4 +1,4 @@
-# Day 1
+# Week 1 - Day 1 - Intro to `git` & JavaScript
 
 ## Presentations
 
@@ -19,7 +19,6 @@
 
 ### Read These
 
-* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)<br/>__HIGHLY RECOMMENDED__
 * [Top Ten Things Beginners Must Know About JavaScript](https://www.codementor.io/@j2jensen/top-ten-things-beginners-must-know-about-javascript-aaeabailp)
 * [Type Coercion in Javascript](https://medium.com/codezillas/let-me-coerce-you-into-liking-javascripts-dynamic-typing-system-3cd22c19cb64)
 * [A fictitious, somewhat farcical conversation between me and the JavaScript programming language](https://littleyellowdifferent.substack.com/p/a-fictitious-somewhat-farcical-conversation)
