@@ -1,5 +1,7 @@
 # Week 1 - Day 1 - Intro to `git` & JavaScript
 
+Welcome to Day 1!
+
 ## Presentations
 
 * [Getting Started - Command Line](https://docs.google.com/presentation/d/1EK_npTGzTjIph8FJe-isghegqn7NyPMG/edit?usp=sharing&ouid=110079887532608677386&rtpof=true&sd=true)
