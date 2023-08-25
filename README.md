@@ -6,7 +6,7 @@ This is your field guide to your Full Time Web Development cohort, and should pr
 
 ## Lectures
 
-Your lectures will be published in weekly folders inside the `lectures` directory. Each week will contain:
+Your lectures will be published in weekly folders inside this `lectures` repository. Each week will contain:
 
 - `README.md` - An overview about what to expect that week, including any recommended preparation
 - `day-*` directories - Each day of your class will contain
