@@ -22,10 +22,11 @@ Please run through the Terminus command-line game. You play in the browser using
 
 [Welcome to Learn Git Branching](https://learngitbranching.js.org/)
 
-## JavaScript Data Types
+## Make a Folder
 
-> Your task is to open your browser console to view the output. Then open the `index.js` file in your code editor. You'll make changes to each function to output the desired output. You don't need to change the functions themselves. Make your changes inside of the curly brackets, `{}`.
+* Open your termingl, and make sure you are in your home directory. Remember, you can use `pwd` to see your current directory. It should say something like `/Users/yourUsernam`
+* In your home directory, create a folder called `Repos` or `Repositories`.
+* Change into that folder and create a folder called `week1`.
+* Change into your `week1` folder and run `git init`
+* Hold that until tomorrow, we'll pick up from there tomorrow.
 
-Follow the link below to the exercise repository. Clone it locally, open it in your code editor and browser, and follow the instructions.
-
-[Working with JavaScript Data Types Github Repo](https://github.com/ccs-fall-2023/exercises/tree/main/javascript-types)
