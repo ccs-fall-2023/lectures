@@ -7,3 +7,7 @@
 Follow the link below to the exercise repository. Clone it locally, open it in your code editor and browser, and follow the instructions.
 
 [Working with JavaScript Data Types Github Repo](https://github.com/ccs-fall-2023/exercises/tree/main/javascript-types)
+
+## JavaScript Functions
+
+[JavaScript Functions Exercises](https://github.com/ccs-fall-2023/exercises/tree/main/js-function-practice)

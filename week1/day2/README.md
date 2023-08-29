@@ -2,8 +2,9 @@
 
 ## Presentations
 
-* [Getting Started - JavaScript](https://docs.google.com/presentation/d/1vyZi49t-9z42ua4eqf2aL0cwJc8blHRO/edit?usp=sharing&ouid=110079887532608677386&rtpof=true&sd=true)
-* [JS Event Loop](https://docs.google.com/presentation/d/1ug0Zt52A_OSyfxsBzhbD3PQK6OO9bssEsLwJPCKOo5k/)
+* [Getting Started - JavaScript](https://docs.google.com/presentation/d/1nY5IWiZ4_OPO-NitYqX6SHB3AbOYfo6EcnLnYgyC8oA/edit?usp=sharing)
+* [JS Event Loop](https://docs.google.com/presentation/d/1-k0RR3bCRKXj3ujPsniacpW5sRjRgF6SAjvzZAnXZPQ/edit?usp=sharing)
+* [JavaScript Functions](https://docs.google.com/presentation/d/1v-F7oxkXfVgEvAOwhinHt0jiXpCJBOKxeizxYkL3ME4/edit?usp=sharing)
 
 ## Recommended Reading
 
