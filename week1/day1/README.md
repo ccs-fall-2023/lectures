@@ -5,7 +5,6 @@ Welcome to Day 1!
 ## Presentations
 
 * [Getting Started - Command Line](https://docs.google.com/presentation/d/1EK_npTGzTjIph8FJe-isghegqn7NyPMG/edit?usp=sharing&ouid=110079887532608677386&rtpof=true&sd=true)
-* [Getting Started - JavaScript](https://docs.google.com/presentation/d/1vyZi49t-9z42ua4eqf2aL0cwJc8blHRO/edit?usp=sharing&ouid=110079887532608677386&rtpof=true&sd=true)
 
 ## Helpful Links
 
@@ -14,10 +13,6 @@ Welcome to Day 1!
 * [Adding a new SSH key to your GitHub account](https://docs.github.com/en/enterprise-server@2.20/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account)
 
 ## Recommended Reading
-
-### Bookmark This
-
-* [Clean Code: Javascript](https://github.com/ryanmcdermott/clean-code-javascript#introduction)
 
 ### Read These
 
@@ -29,6 +24,4 @@ Welcome to Day 1!
 
 * git
 * repository
-* objects
-* variables
-* events
+

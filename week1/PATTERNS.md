@@ -32,7 +32,7 @@ A function will have **four** key parts:
 2. A unique name (make it descriptive!)
 3. Parentheses, `()`, follow the name and can accept parameters (if needed!)
 4. The function body, which will `return` a value
-
+<!--
 ## Object Oriented Programming (OOP)
 
 * A class will act like a blueprint/template/factory.
@@ -48,4 +48,4 @@ In general, a `class` will have the following key parts:
 2. A unique, _Capitalized_ name (make it descriptive!)
 3. A constructor function
 4. Attributes: What can _instances_ of the class **HAVE**?
-5. Methods: What can _instances_ of the class **DO**?
+5. Methods: What can _instances_ of the class **DO**? -->
