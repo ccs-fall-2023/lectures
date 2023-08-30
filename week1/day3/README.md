@@ -9,6 +9,10 @@ Let's get interactive!!
 * [JavaScript Event Loop](https://docs.google.com/presentation/d/1-k0RR3bCRKXj3ujPsniacpW5sRjRgF6SAjvzZAnXZPQ/edit?usp=sharing)
 * [JavaScript Scope and Callbacks](https://docs.google.com/presentation/d/1s7pb8g-czdcuaDR_toqaS-cz4h_OSjfEo33d28UgvmA/edit?usp=sharing)
 
+## Bookmark This
+
+* [Chrome Dev Tools Docs](https://developer.chrome.com/docs/devtools/overview/)
+
 ## Recommended Reading
 
 * [Things I Don't Know as of 2018](https://overreacted.io/things-i-dont-know-as-of-2018/)
