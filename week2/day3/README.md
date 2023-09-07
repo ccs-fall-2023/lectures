@@ -7,7 +7,7 @@
 
 ## Recommended Reading
 
-* ![Anatomy of an HTML document](./anatomy-of-html.pdf) - PDF from University of Pittsburgh CS Course
+* [Anatomy of an HTML document](./anatomy-of-html.pdf) - PDF from University of Pittsburgh CS Course
 * [Media Queries (Examples of Responsive Designs)](https://mediaqueri.es/)
 * [THE CASSETTE TAPE AS RESPONSIVE DESIGN](https://needmoredesigns.com/early-responsive-design/)
 * [Old CSS, new CSS](https://eev.ee/blog/2020/02/01/old-css-new-css/)
