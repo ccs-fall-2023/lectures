@@ -22,3 +22,8 @@
 * [CSS-Tricks: All About Floats](https://css-tricks.com/all-about-floats/)
 * [CSS-Tricks: A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [CSS-Tricks: A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
+### Stuff that's Good to Know
+
+* [Kevin Powell CSS Articles](https://www.kevinpowell.co/articles/)
+* [State of CSS 2023 Survey Results](https://2023.stateofcss.com/en-US/features/)
