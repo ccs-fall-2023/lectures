@@ -2,6 +2,8 @@
 
 ## The story so far...
 
+Read this -> [Just Build It](https://blog.stephaniestimac.com/posts/2023/09/just-build-it/)
+
 ### HTML
 
 HTML is _essentially_ information architecture.
