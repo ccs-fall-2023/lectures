@@ -1,5 +1,9 @@
 # Resources
 
+## Browsers
+
+* [Inside look at modern web browser (part 1)](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
+
 ## HTML
 
 * [HTML5 Patterns](https://www.html5pattern.com/)
@@ -9,10 +13,7 @@
 
 * [The Beauty Of Tiny Enhancements In CSS](https://ishadeed.com/article/tiny-enhancements-in-css/)
 * [Smashing Magazine: Design Patterns Category](https://www.smashingmagazine.com/category/design-patterns)
-
-## Browsers
-
-* [Inside look at modern web browser (part 1)](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
+* [Modern CSS grid solutions to common layout problems](https://dev.to/kevtiq/modern-css-grid-solutions-to-common-layout-problems-hk9)
 
 ## JavaScript
 
