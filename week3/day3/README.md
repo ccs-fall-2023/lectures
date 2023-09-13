@@ -13,6 +13,9 @@ Today, we're going to `fetch` all the things!
 
 ## Recommended Reading
 
+* [An introduction to JavaScript Arrays](https://flaviocopes.com/javascript-array/)
+* [The JavaScript Spread Operator](https://flaviocopes.com/javascript-spread-operator/)
+
 These are repeats from yesterday, but they're worth re-reading
 
 * [MDN: Using the Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
