@@ -1,13 +1,15 @@
 # Week 3 - Day 3
 
-## Fetch Chuck Norris
-
-* [Chuck Norris Quotes API](https://api.chucknorris.io/)
-
 ## CodeWars follow up
 
 * [CodeSandbox Demo](https://codesandbox.io/s/cool-drake-d8g84p?file=/src/index.mjs)
 * [Discussion on CodeWars "Soul of Wit" exercise](https://www.sitepoint.com/community/t/reversing-a-javascript-array-without-reverse-code-explanation/284994/2)
+
+## Fetch Chuck Norris
+
+* [Chuck Norris Quotes API](https://api.chucknorris.io/)
+
+Today, we're going to `fetch` all the things!
 
 ## Recommended Reading
 
