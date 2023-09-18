@@ -1,5 +1,9 @@
 # Resources
 
+## APIs
+
+* [List of Public APIs](https://github.com/public-apis/public-apis)
+
 ## JavaScript
 
 - [Modern JS Cheatsheet Repo](https://github.com/mbeaudru/modern-js-cheatsheet)
