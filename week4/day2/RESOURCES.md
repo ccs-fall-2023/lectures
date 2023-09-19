@@ -7,6 +7,11 @@
 * [Know When to Walk Away](https://medium.com/dev-genius/know-when-to-walk-away-6bd621158fff)
 * [How one programmer broke the internet by deleting a tiny piece of code](https://qz.com/646467/how-one-programmer-broke-the-internet-by-deleting-a-tiny-piece-of-code/)
 
+## Debugging
+
+* [Stop using console.log() instead use...](https://dev.to/iarchitsharma/stop-using-consolelog-instead-use-26b2)
+* [How to stop using console.log() and start using your browser’s debugger](https://medium.datadriveninvestor.com/stopping-using-console-log-and-start-using-your-browsers-debugger-62bc893d93ff)
+
 ## HTML
 
 * [The unreasonable effectiveness of simple HTML](https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/)
