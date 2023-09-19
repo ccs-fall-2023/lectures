@@ -8,6 +8,10 @@
 
 ## Hours 2 - 3
 
+### Clear it out
+
+* Walkthrough clearing `form` elements and `elements`;
+
 ### Welcome to `Class`
 
 * Presentation: [JavaScript Prototypes](https://docs.google.com/presentation/d/1o_7-TJMjTDkLj7awAkdyP7hThlV-rgay_d_TJi_oMz0/edit?usp=sharing)
