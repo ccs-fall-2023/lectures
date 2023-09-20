@@ -9,9 +9,8 @@ Complete the following six items, then be prepared to share your answers as a gr
    * It should return the value of `number` incremented by 1.
 4. Write a `click` event listener for a button.
    * Include an anonymous function that prevents the default behavior.
-5. Write a function that logs "Hello World" to the console. There are no parameters.
-6. Write two functions:
+5. Write two functions:
    * The first function has a parameter `newValue`.
    * The second function does not have any parameters.
    * The second function calls back to the first function and passes an argument with a value `2` for the `newValue` parameter.
-   * The second function will log the value of the `newValue` to the console.
+   * The first function will log the value of the `newValue` to the console.
