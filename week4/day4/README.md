@@ -19,12 +19,20 @@ Before we jump into that, it's important that we address any lingering questions
 
 Whatever questions you have, let's figure them out together!
 
+#### AMA CodeSandbox Links
+
+* [Dynamic Buttons](https://codesandbox.io/s/dynamic-buttons-wtq6gl)
+* [Fetching API Data](https://codesandbox.io/s/fetching-api-data-htwlxf)
+* [Arrow Function Syntax](https://codesandbox.io/s/arrow-functions-vs-normal-jscwm2)
+
 ## Recommended Reading
 
 * [Ten Years Ago](https://neal.fun/ten-years-ago/)
   See what popular websites looked like 10 years ago
 * [Car Hates Vanilla Ice Cream](https://www.cs.cmu.edu/~wkw/humour/carproblems.txt)
   This is a great post about discovering the _actual_ problem based on the _reported_ problem.
+* [MDN: CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+* [Programming Paradigms](https://www.freecodecamp.org/news/an-introduction-to-programming-paradigms/)
 
 ## Good Advice for Forward Progress:
 
