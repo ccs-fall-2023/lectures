@@ -28,3 +28,9 @@ Here comes a curveball...
 * Perhaps [_Death Race 200_](https://en.wikipedia.org/wiki/Death_Race_2000)?
 
 If you're finished with warriors, make a new version (new folder, new repo) that is vehicle based.
+
+## Git & Github Notes
+
+Val made some fantastic notes about the steps for `git` and Github. I'm adding them to the lectures repo!
+
+![Using `git` and Github](./img/vals_git_github_notes.jpg)
