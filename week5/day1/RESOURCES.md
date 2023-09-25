@@ -9,6 +9,7 @@
 
 * [Learning React? Start Small.](https://daveceddia.com/learning-react-start-small/)
 * [Mistakes Junior React Developers Make](https://medium.com/frontend-digest/mistakes-junior-react-developers-make-c546b1af187d)
+* [React 18 Release: A Deep Dive Into New Features and Updates](https://www.scalablepath.com/react/react-18-release-features)
 
 ## Javascript
 
