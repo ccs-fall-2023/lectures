@@ -1,8 +1,9 @@
 # List of Github Accounts
 
-* [Val](https://github.com/ValentinaValverde?tab=repositories)
-* [Oliver](https://github.com/Olivergalante)
-* [Mary](https://github.com/deanm627)
-* [David](https://github.com/dberr715)
-* [Brandon](https://github.com/Cheezalot92)
 * [Austin](https://github.com/aberry520)
+* [Brandon](https://github.com/Cheezalot92)
+* [David](https://github.com/dberr715)
+* [Mary](https://github.com/deanm627)
+* [Oliver](https://github.com/Olivergalante)
+* [Sam](https://github.com/simitchell)
+* [Val](https://github.com/ValentinaValverde)
