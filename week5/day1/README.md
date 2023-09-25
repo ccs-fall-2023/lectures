@@ -4,6 +4,8 @@
 
 Show'n'Tell'n'Debug
 
+![Code Complexity](./img/code_complexity.jpg)
+
 ## Hours 2-3
 
 REACT!
