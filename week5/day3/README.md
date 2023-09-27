@@ -8,7 +8,7 @@
 ## Hour 2 - 3
 
 * [React DevTools](https://react.dev/learn/react-developer-tools)
-* Making `fetch()` happen, but with React! (Hi Chuck!)
+* Making `fetch()` happen, but with React! (Hi Chuck! 👋)
 
 Time Permitting: Mood Ring + [Styled Components](https://styled-components.com/)
 
@@ -19,4 +19,8 @@ Time Permitting: Mood Ring + [Styled Components](https://styled-components.com/)
 
 ## Extra Reading
 
-This article, [All your mainstream UI frameworks are lying to you](https://moonthought.github.io/posts/all-your-mainstream-ui-frameworks-are-lying-to-you/), makes some interesting points.  I don't agree with all of them, and personally think the author's proposed solution is...not great? But, there are some valid criticisms with regards to the ecosystem of frameworks. In addtition, there is a fascinating [discussion on Hacker News](https://news.ycombinator.com/item?id=37656257) about the article.
+This article, [All your mainstream UI frameworks are lying to you](https://moonthought.github.io/posts/all-your-mainstream-ui-frameworks-are-lying-to-you/), is fairly interesting.
+
+I don't agree with all of the points the author makes. I also think the author's proposed solution is...not great? But, there are some valid criticisms with regards to the ecosystem of frameworks.
+
+In addtition, there is a fascinating [discussion on Hacker News](https://news.ycombinator.com/item?id=37656257) about the article.
