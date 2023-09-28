@@ -2,7 +2,8 @@
 
 ## Advanced Prep
 
-* Tomorrow's huddle will be about Test Driven Development.
+Tomorrow's huddle will be about Test Driven Development.
+
 Read through this tutorial, [Learn TDD in React](https://learntdd.in/react) to get an overview of the topic.
 
 You can _try_ the tutorial if you'd like, but note that it hasn't been updated for React 18. However, the principles remain the same.
