@@ -12,6 +12,15 @@ Code along! We'll be referencing our [Github Issues API exercise](https://github
 
 ## Resources
 
+### Hacktoberfest
+
+* [Hacktoberfest](https://hacktoberfest.com/participation/), go hack away on something you think sounds cool!
+
+### We _do_ talk about Bruno!
+
+* [Bruno, a new and innovative open source API client](https://www.usebruno.com/)  This is basically like Postman, but entirely local and Open Source.
+
+### React Router v6
 React Router v6 introduces more than a few changes over v5 (and v5 had a _lot_ of big changes over v4).
 
 [Log Rocket](https://blog.logrocket.com/migrating-react-router-v6-guide/#change-react-router-v6) does a great job looking into these changes, with some history around the benefits/drawbacks of the different apporoaches.
