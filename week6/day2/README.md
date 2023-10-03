@@ -4,6 +4,8 @@
 
 All.the.questions!! Let's answer 'em!
 
+(Also, y'all are going to [help _me_ debug!](https://github.com/seanrreid/react-router-v6.4_CCS_11-2023))
+
 ## Hour 2
 
 Code along! We'll be referencing our [Github Issues API exercise](https://github.com/ccs-fall-2023/exercises/tree/main/js-github-fetch#github-issues-lookup), but starting over with React Router.
