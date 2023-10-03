@@ -1,5 +1,7 @@
 # Resources
 
+
+![Comparing React Router versions 5 & 6](./img/Comparing_React_Router_versions.png)
 ## Web App Ideas
 
 * [Flavio Copes: A list of sample Web App Ideas](https://flaviocopes.com/sample-app-ideas/)
