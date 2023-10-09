@@ -23,7 +23,7 @@
 
 ## OOP in Python
 
-* [Python OOPS Concepts](https://www.youtube.com/watch?v=SRu1GAfr3LA)
+* [Edureka: Python OOPS Concepts](https://www.youtube.com/watch?v=SRu1GAfr3LA)
 
 ## General
 
