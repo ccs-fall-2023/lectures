@@ -22,7 +22,7 @@ Randomized with the help of ChatGPT 😁
 
 Python!
 
-Download Pythong here: [Python.org Downloads](https://www.python.org/downloads/)
+Download Python here: [Python.org Downloads](https://www.python.org/downloads/)
 
 ### Presentations
 

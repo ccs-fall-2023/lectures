@@ -6,6 +6,6 @@ Randy Pausch [_The Last Lecture}](https://www.amazon.com/Last-Lecture-Randy-Paus
 
 ---
 
-## From frontand to backend
+## From frontend to backend
 
 Python is going to be our introduction to backend development. From here, we'll go right into Django.
