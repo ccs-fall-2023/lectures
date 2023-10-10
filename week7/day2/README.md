@@ -10,5 +10,5 @@ We'll continue learning Python's syntax, as well as looking at how JavaScript an
 
 ### Presentations
 
-* [Python II: Secret of the Ooze](https://docs.google.com/presentation/d/1H1QWJuDiXZTMuKaoVc0ln5vCMCe6zvNroRqDO2zFpLg/edit?usp=sharing)
+* [Python II: Secret of the Ooze](https://docs.google.com/presentation/d/1cys408wjh9LY29ZccZnjPgUxRACfHSaamfe0Wpx2D7o/edit?usp=sharing)
 * [Python III: Dream Warriors](https://docs.google.com/presentation/d/1HKomSMmWoze9dubMH8lz07eXRmMY2A67EDZiRwWuA9k/edit?usp=sharing)
