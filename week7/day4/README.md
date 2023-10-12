@@ -1,5 +1,11 @@
 # Week 2 - Day 2
 
+## REMINDER
+
+**Make sure you're pushing any local work up to a repo on Github!! Get all those 🟩 that you can!**
+
+You have been initializing local repos, right? _RIGHT?_
+
 ## ~Hour 1
 
 **FIRST**: Let's talk final projects!
