@@ -8,9 +8,9 @@ You have been initializing local repos, right? _RIGHT?_
 
 ## ~Hour 1
 
-**FIRST**: Let's talk final projects!
-**SECOND**: Let's talk all the moving parts...
-**THEN**: PSQL Review!
+* **FIRST**: Let's talk final projects!
+* **SECOND**: Let's talk all the moving parts...
+* **THEN**: PSQL Review!
 
 ## Hour 2-3
 
