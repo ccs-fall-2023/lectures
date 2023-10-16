@@ -19,7 +19,7 @@ It's time for Server Side Development!
 
 ## In Class
 
-* [Writing your first Django app, part 1](https://docs.djangoproject.com/en/3.0/intro/tutorial01/)
+* [Writing your first Django app, part 1](https://docs.djangoproject.com/en/4.2/intro/tutorial01/)
 * [Django Models](https://docs.djangoproject.com/en/4.2/topics/db/models/)
 * [Django Class Based Views](https://docs.djangoproject.com/en/4.2/topics/class-based-views/)
 
