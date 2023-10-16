@@ -1,6 +1,6 @@
 # Exercises
 
-* Complete the ["Writing your first Django app, part 1" tutorial](https://docs.djangoproject.com/en/3.0/intro/tutorial01/) again.
+* Complete the ["Writing your first Django app, part 1" tutorial](https://docs.djangoproject.com/en/4.2/intro/tutorial01/) again.
 
 This is an 11 part series, complete up through part 6!
 

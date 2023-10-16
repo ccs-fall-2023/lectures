@@ -8,38 +8,40 @@ Steps taken from the [_Django vs Fast API: A Detailed Comparison_ article](https
     pip install django
     ```
 
-2. Check version
+2. Create a Project (replace `YOUR_PROJECT_NAME` with an actual project name)
 
     ```python
-    python -m django — version
+    django-admin startproject [YOUR_PROJECT_NAME]
     ```
 
-3. To check which django commands are available
+3. Now, change into your project directory
 
     ```python
-    django-admin
+    cd [YOUR_PROJECT_NAME]
     ```
 
-4. Create a Project
-
-    ```python
-    django-admin startproject hello_world_app
-    ```
-
-5. Now, move to Project Directory
-
-    ```python
-    cd hello_world_app
-    ```
-
-6. Run the server with the default Django homepage.
+4. Run the server with the default Django homepage.
 
     ```python
     python manage.py runserver
     ```
 
-7. Now you can create your web apps in the current directory(hello_world_app). To create an app use this command:
+5. Now you can create your web apps in the current directory([YOUR_PROJECT_NAME]). To create an app use this command:
 
     ```python
-    python manage.py startapp APP_NAME
+    python manage.py startapp [YOUR_APP_NAME]
     ```
+
+## Helpful commands
+
+Check your Django version
+
+```python
+python -m django —-version
+```
+
+Check which django commands are available
+
+```python
+django-admin
+```
