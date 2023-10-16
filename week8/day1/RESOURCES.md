@@ -1,5 +1,9 @@
 # Resources
 
+## Computer Science-y stuff
+
+* [Explain It Like I'm 5 - Why Are Hashes Irreversible?](https://robconery.com/theory/why-are-hashes-irreversible/)
+
 ## MVT/MVC
 
 * [MVC vs MVT Architectural Pattern](https://medium.com/dsc-umit/mvc-vs-mvt-architectural-pattern-d306a56dce55)
