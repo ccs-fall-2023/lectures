@@ -1,5 +1,10 @@
 # Resources
 
+## General
+
+- [Redmonk: Postgres: the next generation. Investing in the next generation of committers.](https://redmonk.com/jgovernor/2023/10/10/postgres-the-next-generation-investing-in-the-next-generation-of-committers/)
+- [Things I wish someone would have told me about configuring VSCode](https://www.bryanbraun.com/2023/08/10/things-i-wish-someone-would-have-told-me-about-configuring-vscode/)
+
 ## Django Rest Framework
 
 - [Stack Overflow: Difference between Django and Django rest framework](https://stackoverflow.com/a/68113903)
