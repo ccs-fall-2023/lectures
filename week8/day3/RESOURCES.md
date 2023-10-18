@@ -6,3 +6,5 @@
 
 > [...] I can light  the photos I take with [colored gels] and sort of inform a look. And if something seems interesting, what you get as a result of that, you're like, oh, why don't I just paint it to look like that? Here I got the reference. The reference is all set. Why don't I just copy what I'm getting back?
 > Because, you know, there it is. You know, I can do, frankly, _a much better painting based upon an exact photo I'm referencing instead of something I'm just sort of re-imagining_. (emphasis added)
+
+* [Flavio Copes: The Difference Between Frontend And Backend Web Development](https://flaviocopes.com/frontend-vs-backend/)
