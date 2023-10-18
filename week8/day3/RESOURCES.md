@@ -8,3 +8,7 @@
 > Because, you know, there it is. You know, I can do, frankly, _a much better painting based upon an exact photo I'm referencing instead of something I'm just sort of re-imagining_. (emphasis added)
 
 * [Flavio Copes: The Difference Between Frontend And Backend Web Development](https://flaviocopes.com/frontend-vs-backend/)
+
+## Python/Pip
+
+* [pipenv v/s requirements.txt. What is all about it?](https://www.linkedin.com/pulse/pipenv-vs-requirementstxt-what-all-shruthi-sagar-cr/)
