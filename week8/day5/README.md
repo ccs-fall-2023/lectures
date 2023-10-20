@@ -1,0 +1,8 @@
+# Week 8 - Day 5
+
+Here ares some additional resources if you want to read up more on JWT and user authentication...
+
+* [Djangon Rest Doc: Authentication](https://www.django-rest-framework.org/api-guide/authentication/)
+* [SimpleJWT Docs: Getting Started](https://django-rest-framework-simplejwt.readthedocs.io/en/latest/getting_started.html)
+* [How to Implement Tokenization using JWT and Django Rest Framework](https://www.freecodecamp.org/news/how-to-use-jwt-and-django-rest-framework-to-get-tokens/)
+* [How to Use JWT Authentication with Django REST Framework](https://simpleisbetterthancomplex.com/tutorial/2018/12/19/how-to-use-jwt-authentication-with-django-rest-framework.html)
