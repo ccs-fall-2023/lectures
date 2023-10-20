@@ -14,3 +14,9 @@ Here ares some additional resources if you want to read up more on JWT and user 
 * [SimpleJWT Docs: Getting Started](https://django-rest-framework-simplejwt.readthedocs.io/en/latest/getting_started.html)
 * [How to Implement Tokenization using JWT and Django Rest Framework](https://www.freecodecamp.org/news/how-to-use-jwt-and-django-rest-framework-to-get-tokens/)
 * [How to Use JWT Authentication with Django REST Framework](https://simpleisbetterthancomplex.com/tutorial/2018/12/19/how-to-use-jwt-authentication-with-django-rest-framework.html)
+
+## Val's Tutorial Corner
+
+Here's the sketch Val did to illustrate the diffence between React's SPA Client Side templates vs Django's Server-Side templates.
+
+![Val's Sketch for React vs Django Templates](./img/vals_template_sketch.jpg)
