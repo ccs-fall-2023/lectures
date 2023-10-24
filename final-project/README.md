@@ -2,7 +2,7 @@
 
 ## Interjection by Sean
 
-GO BUILD SOMETHING RAD!
+✨ **GO BUILD SOMETHING RAD!** 🌈
 
 In my (Sean's) opinion, apps should either be:
 
@@ -20,7 +20,7 @@ So, start there, and see where you go!
 
 The purpose of the final project is to showcase your abilities as a developer, not to create the Next Big Thing (but if you can do both, go for it!). Make sure to decide beforehand what you think your greatest strengths are, and use your application and presentation as a platform to showcase those strengths. Together, your final project and portfolio should tell a story about what sets you apart from other developers, so that you can stand out when seeking employment.
 
-For example, if you have graphic design background, you should nail the graphic design, in addition to the technical aspects, so that you can tell the story of your diverse experience. If you have business acumen, you could develop an idea that shows your ability to create a viable business idea and execute a minimum viable product quickly. This doesn't have to be anything spectacular, just choose some strength about yourself that you can showcase with the application idea or the technical choices you make. Ask your instructor and classmates for help refining which strengths you should focus on.
+For example, if you have a graphic design background, you should nail the graphic design, in addition to the technical aspects, so that you can tell the story of your diverse experience. If you have business acumen, you could develop an idea that shows your ability to create a viable business idea and execute a minimum viable product quickly. This doesn't have to be anything spectacular, just choose some strength about yourself that you can showcase with the application idea or the technical choices you make. Ask your instructor and classmates for help refining which strengths you should focus on.
 
 ## Requirements
 
@@ -49,16 +49,16 @@ For example, if you have graphic design background, you should nail the graphic 
 
 ### Frontend
 
-1. Build a responsive UI that works across various screen sies.
+1. Build a responsive UI that works across various screen sizes.
     * React is recommended
-    * You can try others, i.e. Remix, NextJS, but be sure to account for learning time in your estimates.
+    * You can try others (i.e. Remix, NextJS) but be sure to account for learning time in your estimates.
 2. Implement CRUD functionality
 
 ### Level Up
 
 1. Integrate at least one 3rd-party API
 2. Use at least one technology or package we haven't covered in class
-3. Your application must be deployed, i.e. using Render.com
+3. Your application must be deployed (consider [Render](https://render.com/), [Heroku](https://heroku.com), or [Fly.io](https://fly.io/))
 4. The URL for the deployed site should be in your README and in your repo description
 5. All code should conform to best practices ([PEP-8](https://peps.python.org/pep-0008/), [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html), [Airbnb React Style Guide](https://github.com/airbnb/javascript/tree/master/react)) and be DRY
 
@@ -94,10 +94,10 @@ This is also helpful while developing, so you're not constantly hitting an API o
 
 1. **Where do we have to be during final projects? In the lab? Home?**
     1. Monday through Thursday, be at Carolina Code School's campus by 10 am for a short standup meeting. We will be holding small lectures about relevant topics as the class needs, and the instructional staff will be onsite to answer questions and provide guidance. **If you don't show up, ask questions, and drive your project in this crucial 3-week period, you won't receive career support.**
-    2. Fridays we will continue to have huddles at 9 AM, followed by a short standup meeting.
+    2. On Fridays we will continue to have huddles at 9 AM, followed by a short standup meeting.
 2. **How often will lectures happen, and will they be optional?**
-    1. There is no set lecture schedule during final projects. Instructional staff (including TAs) may hold impromptu lectures to fill in gaps when mutliple students are struggling with the same topic.
-    2. Students will be notified in class communcation channels ahead of time if a lecture is planned. No lecture during this time is mandatory, but you will be responsible for project requirements even if you miss a relevant lecture. **We strongly suggest attending any lecture opportunities during this time.**
+    1. There is no set lecture schedule during final projects. Instructional staff (including TAs) may hold impromptu lectures to fill in gaps when multiple students are struggling with the same topic.
+    2. Students will be notified in class communication channels ahead of time if a lecture is planned. No lecture during this time is mandatory, but you will be responsible for project requirements even if you miss a relevant lecture. **We strongly suggest attending any lecture opportunities during this time.**
 3. How often do we check in with the instructor?
     1. You must check in with your instructor and/or campus coordinator each morning during standup.
     2. You must attend one 1:1 project check-in with your instructor weekly. These will usually be on Fridays.
