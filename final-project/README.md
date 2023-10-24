@@ -27,31 +27,31 @@ For example, if you have graphic design background, you should nail the graphic 
 ### Project Management
 
 1. Make regular commits each day _(at least one commit per person per day)_
-    - **Failure to commit will forfeit graduation**
+    * **Failure to commit will forfeit graduation**
 2. Before starting development, you must create wireframes
-    - These can be hand sketches or digital designs in Figma, Illustrator, etc.
+    * These can be hand sketches or digital designs in Figma, Illustrator, etc.
 3. You must document at least 8 User Stories about your app
-    - "As an admin user, I want the ability to create courses so that learners can see what courses are available."
-    - User stories follow this structure: "As a **\_\_\_\_** I want **\_\_\_** so that **\_\_\_\_**"
+    * "As an admin user, I want the ability to create courses so that learners can see what courses are available."
+    * User stories follow this structure: "As a **\_\_\_\_** I want **\_\_\_** so that **\_\_\_\_**"
 4. You must write a README that lists all the technologies and APIs used in the project.
-    - Your README is usually the first thing employers see about your project/portfolio. _Don't blow this off!_ It's a big opportunity to show how professionally you can communicate in a technical setting.
+    * Your README is usually the first thing employers see about your project/portfolio. _Don't blow this off!_ It's a big opportunity to show how professionally you can communicate in a technical setting.
 5. Be prepared to explain your project with an [elevator pitch](https://www.universitylabpartners.org/blog/how-to-write-a-winning-elevator-pitch):
-    - 15 to 25 words of what your app does
+    * 15 to 25 words of what your app does
 
 ### Backend
 
 1. Build a project with both user authentication and authorization
 2. Use data stored in a persistent database _(an RDBMS like Postgres or MySQL is preferred)_
 3. Build a RESTful API.
-    - Django REST Framework is recommended.
-    - You can try others, but know that time is limited so you'll need to account for learning time!
+    * Django REST Framework is recommended.
+    * You can try others, but know that time is limited so you'll need to account for learning time!
 4. Include at least one image or file upload
 
 ### Frontend
 
 1. Build a responsive UI that works across various screen sies.
-    - React is recommended
-    - You can try others, i.e. Remix, NextJS, but be sure to account for learning time in your estimates.
+    * React is recommended
+    * You can try others, i.e. Remix, NextJS, but be sure to account for learning time in your estimates.
 2. Implement CRUD functionality
 
 ### Level Up
@@ -84,7 +84,11 @@ Peer code reviews are also extremely helpful. This is a team activity, not a com
 
 ## 3rd Party API Testing
 
-You will want to test any 3rd party APIs you have in mind to verify that they are suitable for your needs. Within one week of beginning final projects, you are required to demonstrate that your API is suitable by running an `api_test.js` or `api_test.py` file that makes an a request to the selected API and gathers data that you will use for your final project. Failure to have this complete puts you in jeopardy of not completing in the final 3 weeks. Your `api_test` file should be included in your project repository.
+You will want to test any 3rd party APIs you have in mind to verify that they are suitable for your needs. Within one week of beginning final projects, you are required to demonstrate that your API is suitable by showing it being used in your app.
+
+**NOTE:** It's not unusual for an API to go offline, break down, hit a rate limit.  If you're using a 3rd party API, it's recommended to have a backup "in case of emergency, break glass" type of file. Usually this is a JSON file with the usual output you'd expect from the API.
+
+This is also helpful while developing, so you're not constantly hitting an API over and over.
 
 ## Final Project Q&A
 
@@ -95,10 +99,10 @@ You will want to test any 3rd party APIs you have in mind to verify that they ar
     1. There is no set lecture schedule during final projects. Instructional staff (including TAs) may hold impromptu lectures to fill in gaps when mutliple students are struggling with the same topic.
     2. Students will be notified in class communcation channels ahead of time if a lecture is planned. No lecture during this time is mandatory, but you will be responsible for project requirements even if you miss a relevant lecture. **We strongly suggest attending any lecture opportunities during this time.**
 3. How often do we check in with the instructor?
-    1. You must check in with your instructor each morning during standup.
+    1. You must check in with your instructor and/or campus coordinator each morning during standup.
     2. You must attend one 1:1 project check-in with your instructor weekly. These will usually be on Fridays.
     3. There will be a final "Demo Day Ready" check-in 1:1 ~2 days before Demo Day. Your project must be functioning and demoed for the instructional team at this time. **If your project is not in a demoable state at this time, you will be removed from the Demo Day lineup.**
 
 ## Resources
 
--   Check out these [TED Talks](https://www.ted.com/playlists/226/before_public_speaking) to help you get ready to speak in front of a crowd.
+* Check out these [TED Talks](https://www.ted.com/playlists/226/before_public_speaking) to help you get ready to speak in front of a crowd.
