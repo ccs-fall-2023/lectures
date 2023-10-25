@@ -4,7 +4,9 @@
 
 We're going to keep working on the CRUDCo URL Shortening App.
 
-![It's URL Shortening!](./img/shortening.png)
+![It's More URL Shortening!](./img/shortening2.png)
+
+OH, BTW, [here are the details for the final project!](../../final-project/README.md)
 
 ### Review
 
