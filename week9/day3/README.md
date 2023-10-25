@@ -1,5 +1,7 @@
 # Week 9 - Day 3
 
+> "I hope you're proud of yourself for the times you've said 'yes,' when all it meant was extra work for you and was seemingly helpful only to someone else." — Fred Rogers.
+
 ## Today's Goals
 
 We're going to keep working on the CRUDCo URL Shortening App.
